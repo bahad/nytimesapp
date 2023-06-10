@@ -9,3 +9,9 @@ Features:
 * Provider State Management
 * Singleton Design Pattern
 * Mocktail to testing
+
+In order to run application
+* flutter clean
+* flutter packages get
+* open -a simulator
+* flutter run
